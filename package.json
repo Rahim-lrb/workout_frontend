@@ -1,6 +1,5 @@
 {
-  "proxy": "https://workout-backend-xh7e.onrender.com",
-  "name": "frontend",
+  "name": "workout-nexus",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
