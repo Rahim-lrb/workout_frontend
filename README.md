@@ -14,7 +14,7 @@ Welcome to my workout project! This project is aimed at showcasing the collabora
 
 ## Demo
 
-Explore the project live [here](https://workout-nexus.netlify.app/login)!
+Explore the project live [here](https://workout-nexus.netlify.app)!
 
 ## Technologies Used
 
@@ -26,10 +26,10 @@ Explore the project live [here](https://workout-nexus.netlify.app/login)!
 ## Screenshots
 
 ### Homepage
-[![Homepage]([![Screenshot-2024-03-06-133409.png](https://i.postimg.cc/65hXsVBZ/Screenshot-2024-03-06-133409.png)](https://postimg.cc/Vd5TnCrs))
+[![Homepage](https://i.postimg.cc/65hXsVBZ/Screenshot-2024-03-06-133409.png)](https://postimg.cc/Vd5TnCrs)
 
 ### LoginPage
-[![Loginpage]([![Screenshot-2024-03-06-141500.png](https://i.postimg.cc/sg10n5xs/Screenshot-2024-03-06-141500.png)](https://postimg.cc/5Xd3yY8R))
+[![Loginpage](https://i.postimg.cc/sg10n5xs/Screenshot-2024-03-06-141500.png)](https://postimg.cc/5Xd3yY8R)
 
 
 Feel free to explore the code on [GitHub](https://github.com/Rahim-lrb/workout_frontend)!
